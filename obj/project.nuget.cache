@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCAMbyrDGM7rl7+/zSOcPRalpgLdiYOnbeMl2xAv0MK4xOcdqmEkHRe0/YKDGcrwS+PAVPahCL/98ouwDXs/wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simeon\\OneDrive\\Documents\\Programming\\cse210\\cycle\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simeon\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\Simeon\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
